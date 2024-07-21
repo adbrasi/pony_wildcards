@@ -1,0 +1,55 @@
+airport
+hangar
+apartment
+aquarium
+arcade
+bar
+tavern
+barn
+bus stop
+cafe
+casino
+castle
+church
+construction
+garage
+gazebo
+gym
+hospital
+house
+hut
+warehouse
+library
+lighthouse
+mall
+museum
+nightclub
+office
+onsen
+pagoda
+prison
+restaurant
+rooftop
+ruins
+shrine
+shop
+bakery
+bookstore
+convenience store
+flower shop
+pharmacy
+supermarket
+skyscraper
+stadium
+arena
+temple
+theater
+movie theater
+tower
+train station
+mansion
+palace
+tent
+shelter
+multiple torii
+torii

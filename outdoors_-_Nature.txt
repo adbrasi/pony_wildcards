@@ -1,0 +1,39 @@
+jungle
+ocean
+meadow
+cliff
+beach
+waterfall
+forest
+bamboo forest
+cave
+wasteland
+hill
+desert
+glacier
+floating island
+wetland
+pond
+river
+lake
+mountain
+canyon
+volcano
+swamp
+shore
+flower field
+iceberg
+meadow
+tundra
+space
+moon
+full moon
+shooting star
+nebula
+sky
+cloudy sky
+cloud
+overcast
+dark clouds
+sunrise
+sunset

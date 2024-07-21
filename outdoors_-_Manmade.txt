@@ -1,0 +1,29 @@
+ferris wheel
+bridge
+canal
+city
+town
+village
+corn field
+wheat field
+field
+garden
+graveyard
+fountain
+market
+market stall
+pier
+pool
+poolside
+road
+alley
+path
+street
+soccer field
+running track
+farm
+rooftop
+railroad tracks
+playground
+park
+alleyway

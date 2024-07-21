@@ -1,0 +1,23 @@
+Pikachu tail
+Scorpion tail
+fish tail
+cat_tail
+cow_tail
+dog_tail
+dragon_tail
+fox_tail
+horse_tail
+lion_tail
+lizard_tail
+monkey_tail
+mouse_tail
+rabbit_tail
+raccoon_tail
+rodent_tail
+rat_tail
+scorpion_tail
+shark_tail
+squirrel_tail
+tiger_tail
+wolf_tail
+beaver tail

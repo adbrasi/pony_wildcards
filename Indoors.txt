@@ -1,0 +1,42 @@
+classroom
+workshop
+cafeteria
+hotel room
+fitting room
+bathroom
+living room
+storage room
+toilet stall
+library
+laboratory
+locker room
+shower
+bathtub
+bedroom
+prison cell
+kitchen
+changing room
+messy room
+gym
+office
+cubicle
+dungeon
+courtroom
+restroom
+hallway
+train interior
+spacecraft interior
+bus interior
+veranda
+tatami
+stained glass
+window
+wooden door
+sliding doors
+door
+window blinds
+throne room
+bathhouse
+laundry room
+dining room
+stairs

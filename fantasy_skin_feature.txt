@@ -1,0 +1,11 @@
+shell
+neck gills
+detailed fur
+wool (fur)
+scales
+mottled skin
+spotted skin
+spines
+robot joints
+featureless face
+gills

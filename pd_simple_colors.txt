@@ -1,0 +1,79 @@
+beige
+black
+blue
+blue-gray
+blue-green
+blue-violet
+brass
+bronze
+brown
+burgundy
+carmine
+chocolate
+copper
+coral
+cream
+crimson
+cyan
+dark blue
+dark blue-gray
+dark brown
+dark cyan
+dark golden
+dark green
+dark orange
+dark purple
+dark red
+dark violet
+deep pink
+ebony
+emerald
+fuchsia
+gold
+gray
+green
+green-blue
+hazel
+indigo
+ivory
+jade
+jasmine
+lemon
+light blue
+light cyan
+light gray
+light green
+light orange
+light pink
+light yellow
+lilac
+lime
+magenta
+malachite
+maroon
+metallic
+mint
+ochre
+olive
+opal
+orange
+pink
+pistachio
+platinum
+plum
+purple
+red
+rose
+ruby
+sapphire
+scarlet
+silver
+teal
+turquoise
+tuscan
+ultramarine
+vanilla
+violet
+white
+yellow
+yellow-green
