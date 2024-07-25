@@ -1,0 +1,41 @@
+Alien
+Asian dragon
+Balrog
+Chimera
+Chupacabra
+Cthulhu
+Dragon
+Eldritch abomination
+Faery
+Gargoyle
+Godzilla
+Golem
+Gorgon 
+Gremlin
+Griffon 
+Hell Hound
+Hippogriff
+Hydra
+Imp
+Kirin
+Kraken
+Lamia
+Leviathan
+Manticore
+Mummy
+Naga
+Owlbear
+Pegasus
+Skeleton
+Sphinx
+Tarrasque
+Tentacles
+Undead
+Unicorn
+Wendigo
+Werewolf
+Wereboar
+Wererat
+Xenomorph
+Yeti
+zombie

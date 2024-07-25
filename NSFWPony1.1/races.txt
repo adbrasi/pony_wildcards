@@ -1,0 +1,51 @@
+Aasimar
+Angel
+Avian
+blood elf
+Centaur
+Cyclop
+Dark Elf
+Demon
+Devil
+Draenei
+Dryad
+Dwarf
+Elf
+Fairy
+Faun
+Fiend
+Giant
+Gnoll
+Gnome
+Goblin
+Hag
+Harpy
+High Elf
+Human
+Kobold
+Kitsune
+Lightforged draenei
+Lizardfolk
+Majin
+Merfolk
+Mermaid
+Martian
+Minotaur
+night elf
+nightborne
+Nymph
+Orc
+Pandaren
+Satyr
+Sangheili
+Slime girl
+Svirfneblin
+Succubus
+Tiefling
+Troll
+twi'lek
+Vampire
+Viera
+Void elf
+Wood Elf
+Worgen
