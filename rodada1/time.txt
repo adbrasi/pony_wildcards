@@ -1,0 +1,14 @@
+day
+day, clouds
+day, sunny
+noon
+dawn
+midnight
+night, full moon
+night, crescent moon
+dusk
+light
+dark
+indoors
+indoors, light
+indoors, dark
